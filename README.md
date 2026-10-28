@@ -1,5 +1,5 @@
 # Relatorios.
-| **Aluno(a)** | Lucas Guimaraes Fialho |
+| **Aluno** | Lucas Guimaraes Fialho |
 | **Matrícula** | 20261002377 |
 | **Disciplina** | Programação e Análise de Dados com Python — PPGE/UFPB |
 | **Professor** | Prof. Dr. Hilton Ramalho |
