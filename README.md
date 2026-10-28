@@ -1,4 +1,3 @@
-```markdown
 # Relatorios.
 | **Aluno(a)** | Lucas Guimaraes Fialho |
 | **Matrícula** | 20261002377 |
@@ -15,4 +14,4 @@ notebook com as respostas e saídas
 
 ## Como visualizar
 Abra o notebook diretamente no GitHub ou baixe o arquivo e execute no seu IDE de preferência.
-```
+
