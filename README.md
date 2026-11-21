@@ -11,6 +11,9 @@ Resolução dos relatorios da disciplina.
 notebook com as respostas e saídas
 - `relatorio-03-ciclos-while.ipynb`.
 - `relatorio-04-listas.ipynb`.
+- `relatorio-05-ciclos-for.ipynb`.
+- `relatorio-06-conjuntos.ipynb`.
+- `relatorio-07-dicionarios.ipynb`.
 
 ## Como visualizar
 Abra o notebook diretamente no GitHub ou baixe o arquivo e execute no seu IDE de preferência.
